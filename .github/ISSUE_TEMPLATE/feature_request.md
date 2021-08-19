@@ -1,6 +1,6 @@
 ---
-name: "기능 요청 (Enhancement/Feature Request)"
-about: "더 좋은 블로그를 만들기 위해 필요한 기능을 요청해주세요"
+name: "기능 추가 (Enhancement/Feature Request)"
+about: "필요한 기능 추가 관련 템플릿"
 ---
 
 
